@@ -1,2 +1,3 @@
 # hello-world
-my first project
+my first project git hub
+i want to add a name
